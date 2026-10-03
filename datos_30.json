@@ -1,0 +1,242 @@
+[
+  {
+    "mapName": "Alaska",
+    "name": "Alaska",
+    "capital": "Juneau",
+    "iata": "JNU",
+    "iso2": "AK",
+    "color": "#3695c7"
+  },
+  {
+    "mapName": "Canada",
+    "name": "Canadá",
+    "capital": "Ottawa",
+    "iata": "YOW",
+    "iso2": "CA",
+    "color": "#c64f70"
+  },
+  {
+    "mapName": "United States of America",
+    "name": "Estados Unidos",
+    "capital": "Washington D. C.",
+    "iata": "DCA",
+    "iso2": "US",
+    "color": "#3695c7"
+  },
+  {
+    "mapName": "Mexico",
+    "name": "México",
+    "capital": "Ciudad de México",
+    "iata": "MEX",
+    "iso2": "MX",
+    "color": "#31945b"
+  },
+  {
+    "mapName": "Honduras",
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "iata": "TGU",
+    "iso2": "HN",
+    "color": "#efb04e"
+  },
+  {
+    "mapName": "Guatemala",
+    "name": "Guatemala",
+    "capital": "Ciudad de Guatemala",
+    "iata": "GUA",
+    "iso2": "GT",
+    "color": "#d45c78"
+  },
+  {
+    "mapName": "El Salvador",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "iata": "SAL",
+    "iso2": "SV",
+    "color": "#82b84b"
+  },
+  {
+    "mapName": "Nicaragua",
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "iata": "MGA",
+    "iso2": "NI",
+    "color": "#ecd75c"
+  },
+  {
+    "mapName": "Costa Rica",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "iata": "SJO",
+    "iso2": "CR",
+    "color": "#ef8652"
+  },
+  {
+    "mapName": "Colombia",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "iata": "BOG",
+    "iso2": "CO",
+    "color": "#55a7d4"
+  },
+  {
+    "mapName": "Panama",
+    "name": "Panamá",
+    "capital": "Ciudad de Panamá",
+    "iata": "PTY",
+    "iso2": "PA",
+    "color": "#d86b54"
+  },
+  {
+    "mapName": "Ecuador",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "iata": "UIO",
+    "iso2": "EC",
+    "color": "#b8b34a"
+  },
+  {
+    "mapName": "Peru",
+    "name": "Perú",
+    "capital": "Lima",
+    "iata": "LIM",
+    "iso2": "PE",
+    "color": "#d6bc72"
+  },
+  {
+    "mapName": "Bolivia",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "iata": "SRE",
+    "iso2": "BO",
+    "color": "#73b9d8"
+  },
+  {
+    "mapName": "Chile",
+    "name": "Chile",
+    "capital": "Santiago",
+    "iata": "SCL",
+    "iso2": "CL",
+    "color": "#c94768"
+  },
+  {
+    "mapName": "Greenland",
+    "name": "Groenlandia",
+    "capital": "Nuuk",
+    "iata": "GOH",
+    "iso2": "GL",
+    "color": "#e9eee8"
+  },
+  {
+    "mapName": "Cuba",
+    "name": "Cuba",
+    "capital": "La Habana",
+    "iata": "HAV",
+    "iso2": "CU",
+    "color": "#d25c75"
+  },
+  {
+    "mapName": "Belize",
+    "name": "Belice",
+    "capital": "Belmopán",
+    "iata": "BZE",
+    "iso2": "BZ",
+    "color": "#4d9d57"
+  },
+  {
+    "mapName": "Haiti",
+    "name": "Haití",
+    "capital": "Puerto Príncipe",
+    "iata": "PAP",
+    "iso2": "HT",
+    "color": "#dc6880"
+  },
+  {
+    "mapName": "Jamaica",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "iata": "KIN",
+    "iso2": "JM",
+    "color": "#e5b349"
+  },
+  {
+    "mapName": "Venezuela",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "iata": "CCS",
+    "iso2": "VE",
+    "color": "#e9a55e"
+  },
+  {
+    "mapName": "Dominican Republic",
+    "name": "República Dominicana",
+    "capital": "Santo Domingo",
+    "iata": "SDQ",
+    "iso2": "DO",
+    "color": "#59a4ca"
+  },
+  {
+    "mapName": "Puerto Rico",
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "iata": "SJU",
+    "iso2": "PR",
+    "color": "#b3aa55"
+  },
+  {
+    "mapName": "Guyana",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "iata": "GEO",
+    "iso2": "GY",
+    "color": "#278b76"
+  },
+  {
+    "mapName": "Suriname",
+    "name": "Surinam",
+    "capital": "Paramaribo",
+    "iata": "PBM",
+    "iso2": "SR",
+    "color": "#319cc3"
+  },
+  {
+    "mapName": "French Guiana",
+    "name": "Guayana Francesa",
+    "capital": "Cayena",
+    "iata": "CAY",
+    "iso2": "GF",
+    "color": "#d2a653"
+  },
+  {
+    "mapName": "Brazil",
+    "name": "Brasil",
+    "capital": "Brasília",
+    "iata": "BSB",
+    "iso2": "BR",
+    "color": "#5a467d"
+  },
+  {
+    "mapName": "Paraguay",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "iata": "ASU",
+    "iso2": "PY",
+    "color": "#d65b9b"
+  },
+  {
+    "mapName": "Uruguay",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "iata": "MVD",
+    "iso2": "UY",
+    "color": "#dfcf47"
+  },
+  {
+    "mapName": "Argentina",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "iata": "AEP",
+    "iso2": "AR",
+    "color": "#3da1cc"
+  }
+]
